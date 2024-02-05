@@ -6,7 +6,7 @@ A project aimed at creating a versatile maze level editor using Unity and C#. As
 
 1. **Real-time Generation in the Editor**
 
-2. **Automated Adjustment and Alignment**
+2. **Automated Prefab Scaling and Alignment**
    - The editor takes care of the hassle by automatically adjusting and aligning all prefab assets, ensuring proper scaling and placement.
 
 3. **Additional Parameters for Prefab's size customization**
